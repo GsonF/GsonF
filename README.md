@@ -6,7 +6,7 @@
 </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
- <img src="https://media1.tenor.com/m/NUmAspaLmrYAAAAC/mushu-i-dont-care.gif" width="200px">
+ <img  src= "https://media1.tenor.com/m/VK5TVyR1zOAAAAAC/smile-dragon.gif" width="200px">
 </div>
  
  &nbsp;
@@ -21,7 +21,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 
-<img src= "https://media1.tenor.com/m/VK5TVyR1zOAAAAAC/smile-dragon.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://media1.tenor.com/m/NUmAspaLmrYAAAAC/mushu-i-dont-care.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
