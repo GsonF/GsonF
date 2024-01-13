@@ -3,6 +3,7 @@
 <p align="center">I ❤️ solve great challenges. <br><br> FrontEnd development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
+ <img src="https://media1.tenor.com/m/f2cMa2-XblEAAAAC/laughing-mojo-jojo.gif" width="100px">
 </div>
  
  &nbsp;
