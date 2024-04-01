@@ -2,7 +2,7 @@
 
 <p align="center">I ❤️ solve great challenges. (sometimes) <br>
 <br> 
-  I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, focused on development fullstack.
+  I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, enginner sofware focused on development fullstack
 </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
